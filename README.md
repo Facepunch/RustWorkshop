@@ -11,3 +11,7 @@ As of time of writing this program has generated over $250,000 for our workshop 
 The Rust SDK on Steam is now obsolete. You should be able to convert your old items via the ingame workshop.
 
 This has made user created content more accessible to the majority of users, as it no longer requires you to install and use Unity. It also means that you can preview your items in game.
+
+# Bugs, suggestions
+
+Please use the Issues tab to report problems and make suggestions.
